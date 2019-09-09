@@ -1,0 +1,1 @@
+# sevensins-wp-plugin
